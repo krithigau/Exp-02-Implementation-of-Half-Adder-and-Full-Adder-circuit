@@ -45,6 +45,7 @@ Logic symbol & Truthtable
 RTL realization
 ### Code:
 ![code ha](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/997c088a-2fc2-4b75-959c-5e54c415b87e)
+
 ![FA CODE](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/4cd8884a-3a94-4252-a17d-0b47c50485be)
 
 ### RTL
@@ -53,7 +54,7 @@ RTL realization
 
 ### TIMING DIAGRAM
 ![Timing diag ha](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/321882bc-8ca4-42eb-93be-848760a90b1f)
-![Timing diag fa](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/a1d048bb-65da-403e-bcdc-454680397cfb)
+![FA TIME LINE](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/ac9dd123-d716-4203-b584-a791c682dd9b)
 
 ### TRUTH TABLE 
 ![TT FOR HA](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/01feb115-ed98-4b84-abfc-c9e0232e0a89)
