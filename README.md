@@ -58,6 +58,7 @@ RTL realization
 
 ### TRUTH TABLE 
 ![TT FOR HA](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/01feb115-ed98-4b84-abfc-c9e0232e0a89)
+
 ![TT FOR FA](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/104e555a-def0-4bb4-a451-20b2d6825ed8)
 ### Result:
 Thus the given full adder and half adder are verified using verilog programming.
