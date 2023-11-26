@@ -38,17 +38,25 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: U KRITHIGA
+RegisterNumber:  23006499
 */
 Logic symbol & Truthtable
 RTL realization
+### Code:
+![code ha](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/997c088a-2fc2-4b75-959c-5e54c415b87e)
+![FA CODE](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/4cd8884a-3a94-4252-a17d-0b47c50485be)
 
-### Output:
 ### RTL
-### TIMING DIAGRAM
+![RTL for ha](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/0e56a254-9662-48bd-9d4d-6310980be760)
+![RTL FA (2)](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/3c677309-2b08-4803-807b-1576569cd2bb)
 
+### TIMING DIAGRAM
+![Timing diag ha](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/321882bc-8ca4-42eb-93be-848760a90b1f)
+![Timing diag fa](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/a1d048bb-65da-403e-bcdc-454680397cfb)
 
 ### TRUTH TABLE 
-
+![TT FOR HA](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/01feb115-ed98-4b84-abfc-c9e0232e0a89)
+![TT FOR FA](https://github.com/krithigau/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319401/104e555a-def0-4bb4-a451-20b2d6825ed8)
 ### Result:
+Thus the given full adder and half adder are verified using verilog programming.
